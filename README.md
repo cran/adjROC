@@ -1,5 +1,15 @@
-`adjROC` : Computing Sensitivity at a Fix Value of Specificity and Vice Versa
+> Haghish, E. F. (2022). adjROC: Computing Sensitivity at a Fix Value of Specificity and Vice Versa [Computer software]. https://CRAN.R-project.org/package=adjROC.
+
+- - -
+
+<a href="https://github.com/haghish/adjROC"><img src='man/figures/logo.png' align="right" height="200" /></a>
+
+`adjROC`: ROC Curve Evaluation at a Given Threshold
 ============================================================================================================
+
+[![CRAN version](http://www.r-pkg.org/badges/version/adjROC?color=258076)](https://cran.r-project.org/package=adjROC)  [![](https://cranlogs.r-pkg.org/badges/grand-total/adjROC?color=e8a0c6)](https://cran.r-project.org/package=adjROC) [![](https://raw.githubusercontent.com/haghish/mlim/main/man/figures/manual.svg)](https://CRAN.R-project.org/package=adjROC)
+
+
 
 `adjROC` is an R package for computing adjusted sensitivity and specificity at particular thresholds. There are 
 methods for estimating the best balance betwen sensitivity and specificity. However, in clinical settings, 
